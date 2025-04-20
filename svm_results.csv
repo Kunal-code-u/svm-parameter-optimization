@@ -1,0 +1,11 @@
+Sample,Accuracy,Parameters
+S1,92.97,"{'C': np.float64(6.725268669500442), 'gamma': 'scale', 'kernel': 'rbf'}"
+S2,92.83,"{'C': np.float64(8.4169258900655), 'gamma': 'auto', 'kernel': 'rbf'}"
+S3,93.54,"{'C': np.float64(5.160868335126388), 'gamma': 'scale', 'kernel': 'rbf'}"
+S4,92.58,"{'C': np.float64(9.816026061735675), 'gamma': 'auto', 'kernel': 'rbf'}"
+S5,92.8,"{'C': np.float64(4.0324672836655555), 'gamma': 'scale', 'kernel': 'rbf'}"
+S6,92.63,"{'C': np.float64(9.976962859363766), 'gamma': 'scale', 'kernel': 'rbf'}"
+S7,93.24,"{'C': np.float64(7.340705674116883), 'gamma': 'auto', 'kernel': 'rbf'}"
+S8,93.61,"{'C': np.float64(4.495013131901203), 'gamma': 'auto', 'kernel': 'rbf'}"
+S9,93.71,"{'C': np.float64(8.576527037322176), 'gamma': 'scale', 'kernel': 'rbf'}"
+S10,92.97,"{'C': np.float64(5.91751390348381), 'gamma': 'scale', 'kernel': 'rbf'}"
